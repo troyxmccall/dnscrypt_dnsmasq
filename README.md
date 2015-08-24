@@ -3,7 +3,7 @@ DNSMasq and DNSCrypt all in one, with OpenDNS
 
 # PRE-REQUIREMENT
 
-***Docker-Compose***[^1]
+***[Docker-Compose](https://docs.docker.com/compose/)***
 
 For ubuntu & Mac OSX
 
@@ -20,5 +20,3 @@ cd dnscrypt_dnsmasq
 
 docker-compose up
 ```
-
-[^1]: Docker-Compse：https://docs.docker.com/compose/
